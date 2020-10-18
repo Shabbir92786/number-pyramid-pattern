@@ -1,1 +1,1 @@
-# number-pyramid-pattern
+# Number-Pyramid-Pattern.
